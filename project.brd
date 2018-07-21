@@ -152,7 +152,7 @@
 <hole x="45.72" y="16.51" drill="2.2"/>
 <hole x="45.72" y="77.47" drill="2.2"/>
 <hole x="6.35" y="66.04" drill="2.2"/>
-<text x="5.08" y="15.24" size="0.8128" layer="21">J. R. Schmid · 2018-07-22 · Rev. 6</text>
+<text x="5.08" y="15.24" size="0.8128" layer="21">J. R. Schmid · 2018-07-22 · Rev. 7</text>
 <text x="25.527" y="58.039" size="1.778" layer="22" rot="MR270">The Three Musketeers</text>
 <text x="23.495" y="51.054" size="1.016" layer="22" rot="MR270">3-WAY HI-FI DISTRIBUTOR</text>
 <wire x1="25.019" y1="58.42" x2="23.749" y2="58.42" width="0.254" layer="22" curve="180"/>

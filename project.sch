@@ -22513,7 +22513,10 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <instance part="U1" gate="A" x="45.72" y="111.76"/>
 <instance part="U1" gate="-NULL" x="45.72" y="114.3"/>
 <instance part="U1" gate="P" x="45.72" y="111.76"/>
-<instance part="C4" gate="G$1" x="63.5" y="111.76" rot="R90"/>
+<instance part="C4" gate="G$1" x="63.5" y="111.76" smashed="yes" rot="R90">
+<attribute name="NAME" x="63.119" y="113.284" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="63.119" y="105.664" size="1.778" layer="96" rot="R90"/>
+</instance>
 <instance part="X1" gate="G$1" x="71.12" y="109.22" rot="R180"/>
 <instance part="J2" gate="G$1" x="-15.24" y="106.68" smashed="yes">
 <attribute name="NAME" x="-20.32" y="112.268" size="1.778" layer="95" font="vector"/>
@@ -22541,7 +22544,10 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <instance part="U2" gate="A" x="45.72" y="68.58"/>
 <instance part="U2" gate="-NULL" x="45.72" y="71.12"/>
 <instance part="U2" gate="P" x="45.72" y="68.58"/>
-<instance part="C11" gate="G$1" x="63.5" y="68.58" rot="R90"/>
+<instance part="C11" gate="G$1" x="63.5" y="68.58" smashed="yes" rot="R90">
+<attribute name="NAME" x="63.119" y="70.104" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="63.119" y="62.484" size="1.778" layer="96" rot="R90"/>
+</instance>
 <instance part="X2" gate="G$1" x="71.12" y="66.04" rot="R180"/>
 <instance part="R11" gate="G$1" x="33.02" y="58.42" rot="R90"/>
 <instance part="R12" gate="G$1" x="33.02" y="76.2" rot="R90"/>

@@ -22445,9 +22445,14 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <plain>
 </plain>
 <instances>
-<instance part="J1" gate="G$1" x="10.16" y="63.5" rot="R180"/>
+<instance part="J1" gate="G$1" x="10.16" y="63.5" smashed="yes" rot="R180">
+<attribute name="VALUE" x="12.7" y="71.374" size="1.778" layer="96" font="vector" rot="R180" align="top-left"/>
+<attribute name="NAME" x="12.7" y="55.88" size="1.778" layer="95" font="vector" rot="R180"/>
+</instance>
 <instance part="C1" gate="G$1" x="30.48" y="60.96" rot="R180"/>
-<instance part="L1" gate="1" x="38.1" y="58.42"/>
+<instance part="L1" gate="1" x="38.1" y="58.42" smashed="yes">
+<attribute name="NAME" x="34.29" y="60.706" size="1.778" layer="95"/>
+</instance>
 <instance part="C2" gate="G$1" x="45.72" y="63.5"/>
 <instance part="C3" gate="G$1" x="58.42" y="60.96" rot="R180"/>
 </instances>

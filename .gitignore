@@ -49,3 +49,18 @@ eagle.epf
 
 # file locks introduced since 7.x
 *.lck
+
+# Gerber files
+*.CUT
+*.GBL
+*.GBO
+*.GBS
+*.GML
+*.GTL
+*.GTO
+*.GTP
+*.GTS
+*.TXT
+*.dri
+*.gpi
+*.pro

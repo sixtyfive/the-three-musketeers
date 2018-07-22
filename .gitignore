@@ -1,5 +1,8 @@
 # Ignore list for Eagle, a PCB layout tool
 
+outputs/*
+gerber/*
+
 # Backup files
 *.s#?
 *.b#?

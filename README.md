@@ -1,7 +1,6 @@
-I needed something to feed three audio sources into my amplifier's AUX input.
-I also wanted to learn how to design a simple schematic and PCB with Eagle.
+I needed something to feed three audio sources into my amplifier's AUX input. I also wanted to learn how to design a simple schematic and PCB with Eagle. As a power source I wanted to be able to use any USB port, so the power supply schematic turned out more complex than the actual thing.
 
-That's it.
+Anyways, that's it.
 
 ![Schematic, sheet 1](https://github.com/sixtyfive/the-three-musketeers/raw/master/images/schematic_sheet1.png)
 

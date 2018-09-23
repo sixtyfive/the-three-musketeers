@@ -6,4 +6,6 @@ Anyways, that's it.
 
 ![Schematic, sheet 2](https://github.com/sixtyfive/the-three-musketeers/raw/master/images/schematic_sheet2.png)
 
+Careful, the PCB is out of date at the moment! Below is what it once looked like.
+
 ![PCB](https://raw.githubusercontent.com/sixtyfive/the-three-musketeers/master/images/board.png)

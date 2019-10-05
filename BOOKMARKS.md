@@ -9,3 +9,5 @@
 - https://sound-au.com/project37.htm
 - http://www.qrp4u.de/docs/en/agc_sm/index.htm
 - https://hackaday.io/project/46280-muffsy-stereo-relay-input-selector
+- http://i.imgur.com/gPQodsj.gif (diode compressor! cool! formulas?)
+- https://www.electroschematics.com/wp-content/uploads/2013/12/Update-Audio-Compressor-AGC-Schematic-2.jpg?fit=1008%2C720

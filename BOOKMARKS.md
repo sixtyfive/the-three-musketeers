@@ -1,0 +1,10 @@
+- http://musicfromouterspace.com/analogsynth_new/WALLWARTSUPPLY/WALLWARTSUPPLY.php
+- https://www.sequencer.de/synthesizer/threads/symmetrische-spannung-aus-trafo-ohne-mittelanzapfung.40293/
+- https://www.sowter.co.uk/rectifier-transformer-calculation.php
+- http://6.qvsbwedkl.aboutlaura.de/circuit-description-the-preamp-circuit-based-on-a-design-in-the-1975.html
+  - http://www.next.gr/uploads/8/pre-amp-single-supply.jpg
+- https://www.elcircuit.com/2016/09/hifi-audio-preamp-circuit-tl072.html?m=1
+  - https://2.bp.blogspot.com/-1wqxx-jvaGM/V-nGi2WOsvI/AAAAAAAAA0s/gCCoJ27efYsKQ02fjROY2QzsP2jolWZbACLcB/s640/HiFi%2BPreAmp%2BCircuit%2BSchematic.jpg
+- https://sound-au.com/project163.htm
+- http://www.qrp4u.de/docs/en/agc_sm/index.htm
+- https://hackaday.io/project/46280-muffsy-stereo-relay-input-selector
